@@ -41,7 +41,3 @@ Várias ideias do KhanFucker foram tiradas do script <a href="https://github.com
 </details>
 
 <br><br><br>
-
-<p align="center"><a href="#"><img src="https://komarev.com/ghpvc/?username=KhanFucker&style=for-the-badge&label=Views&color=lightgrey"/></p>
-
-<a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=9B1C31&section=footer"/></a>
