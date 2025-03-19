@@ -22,7 +22,7 @@
 <br>
 
 💢┃Remoção de Códigos Inúteis<br>
-💢┃DarkReader Atualizado<br>
+💢┃Cronograma Atualizado<br>
 💢┃Execução mais Rápida<br>
 💢┃Visual Minimalista<br>
 </details>
