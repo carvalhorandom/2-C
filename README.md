@@ -3,7 +3,7 @@
 <br>
 
 ```js
-javascript:fetch("https://www.instagram.com/luizinho.ws?igsh=ZjZlbTRrY2lybW9l
+https://www.instagram.com/luizinho.ws?igsh=ZjZlbTRrY2lybW9l
 ```
 
 <br><br><br>
