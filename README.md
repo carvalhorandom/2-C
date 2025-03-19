@@ -2,9 +2,7 @@
 
 <br>
 
-```js
-https://www.instagram.com/luizinho.ws?igsh=ZjZlbTRrY2lybW9l
-```
+
 
 <br><br><br>
 
