@@ -41,3 +41,5 @@ Várias ideias do KhanFucker foram tiradas do script <a href="https://github.com
 </details>
 
 <br><br><br>
+
+<a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=9B1C31&text=2°C&fontColor=FFFFFF&fontAlign=50&fontAlignY=30&fontSize=35"/></a>
