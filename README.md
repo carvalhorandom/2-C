@@ -2,8 +2,6 @@
 
 <br>
 
-
-
 <br><br><br>
 
 <h1 align="center">📓 TUTORIAL 📓</h1>
