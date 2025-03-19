@@ -28,7 +28,7 @@
 </details>
 
 <details>
-  <summary><strong>🏆┃CRÉDITOS→darkmod</strong></summary>
+  <summary><strong>🏆┃CRÉDITOS: @luizinho.ws</strong></summary>
 <br>
 
 <h4 align="left">🌿┃Niximkk</h4>
